@@ -1,0 +1,78 @@
+.topnav {
+    width: 100%;
+    display: flex;
+}
+.topnav ul li{
+    list-style: none;
+    display: inline;
+    margin:1em;
+}
+h1{
+    text-align: center;
+    color: orange;
+}
+.ha {
+    color: rgb(29, 29, 53);
+}
+.first {
+    width: 40%;
+}
+.last{
+    width: 40%;
+    padding-left: 200px;
+}
+.middle{
+    text-align: center;
+    width: 20%;
+    padding-left: 200px;
+}
+button{
+    background-color: rgb(252, 172, 24);
+    border-radius: 10%;
+    color: white;
+    padding: 10px;
+}
+.bod{
+    width: 100%;
+    padding-top: 50px;
+}
+.words{
+  padding-left: 80px;
+  float: left;
+  width: 40%; 
+}
+.checked{
+    color: orange;
+}
+.reviews{
+    padding-top: 50px;
+    width: 50%;
+    display: flex;
+}
+#goo{
+    width: 5px;
+    height: 3px;
+}
+#ama{
+    width: 10px;
+    height: 5px;
+}
+#btwo{
+    margin-left: 40px;
+}
+#girl{
+    width: 50%;
+    height: auto;
+}
+.right{
+    padding-right: 60px;
+}
+footer{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    color: rgb(95, 92, 92);
+}
